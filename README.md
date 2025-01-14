@@ -1,4 +1,8 @@
-# 2025-01-14-git
+# 2025-01-14: Git
+
 DSCI 310 Git class example
 
-I like pizza (not in VaNCouVeR)
+
+I like pizza (not in Vancouver)
+
+- a conflict arrives when you edit the same file in the same place
